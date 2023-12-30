@@ -1,2 +1,6 @@
-# algos
-Basic Algo Implements
+# code + algos
+
+ - arrays
+ - algos
+ - mem management
+ - DSA
