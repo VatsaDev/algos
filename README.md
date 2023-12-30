@@ -1,6 +1,4 @@
-# code + algos
+# algos
 
- - arrays
  - algos
- - mem management
  - DSA
